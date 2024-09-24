@@ -44,10 +44,11 @@
 - **Certificaciones:** SQL, Científico de Datos (Universidad Distrital Francisco José de Caldas), Análisis y Visualización de Datos (Ministerio TIC y Talento Tech), AWS GenAI Bootcamp, AWS AI Practitioner (en proceso de finalización)
 
 ## 📈 Proyectos Relevantes
+![juanramosdataexpert's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juanramosdataexpert&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 1. **Instacart MarketBasket Analysis:** [Ir al repositorio](https://github.com/juanramosdataexpert/InstacartMarketBasketAnalysis)
    - Este proyecto involucró el análisis de un gran conjunto de datos proveniente de la base de datos de Instacart. Construí un modelo de Machine Learning para predecir los productos que serían ordenados en la siguiente orden de compra.
    - El análisis inicial arrojó estadísticas detalladas de la plataforma, de los usuarios, los productos y los hábitos de consumo en general.
-3. **Bodytech - Más Fuerte cada Dato:** [Ir al repositorio](https://github.com/juanramosdataexpert/Bodytech-MasFuerteCadaDato)
+2. **Bodytech - Más Fuerte cada Dato:** [Ir al repositorio](https://github.com/juanramosdataexpert/Bodytech-MasFuerteCadaDato)
    - Sugerí ofertas comerciales personalizadas a partir de modelos de Machine Learning de Aprendizaje Supervisado y No Supervisado, basándonos en información pública, el tipo de cliente (Nuevo, Renovado o Recuperado) y el tipo de servicio (Recurrente o Único Pago)
    - Construí unos tableros dinámicos para los gerentes de sede que les permitiera tener la información detallada, de forma muy personalizada, intuitiva y actualizada para tomar las mejores decisiones del negocio impulsados por la fuerza de los datos y la Inteligencia Artificial.
 
